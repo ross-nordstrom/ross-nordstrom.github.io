@@ -294,7 +294,7 @@ footer {
    margin-left: -120px;
 }
 
-.container {
+section, aside, footer {{
    position: relative;
 }
 .notation {
