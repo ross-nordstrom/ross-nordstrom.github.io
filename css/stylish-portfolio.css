@@ -285,11 +285,11 @@ footer {
 
 .lead {
    text-align: left;
-   padding-left: 110px;
+   padding-left: 120px;
 }
 
 .lead strong {
    display: inline-block;
-   width: 110px;
-   margin-left: -110px;
+   width: 120px;
+   margin-left: -120px;
 }
