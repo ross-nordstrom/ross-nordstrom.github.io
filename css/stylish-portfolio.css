@@ -293,3 +293,13 @@ footer {
    width: 120px;
    margin-left: -120px;
 }
+
+.container {
+   position: relative;
+}
+.notation {
+   position: absolute;
+   top: 0px;
+   right: 20px;
+   color: lightgrey;
+}
