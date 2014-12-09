@@ -307,11 +307,17 @@ section, aside, footer {
 
 .center-block {
     text-align: left;
-    width: 350px;
+    width: 360px;
     margin: auto;
     padding-left: 40px;
+    margin-bottom: 20px;
 }
-
+.center-block table {
+    margin-bottom: 20px;
+}
 .center-block td {
     padding-left: 10px;
+}
+.center-block ul {
+    padding-left:40px;
 }
