@@ -310,7 +310,8 @@ section, aside, footer {
     width: 360px;
     margin: auto;
     padding-left: 40px;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
+    margin-top: 20px;
 }
 .center-block table {
     margin-bottom: 20px;
@@ -320,4 +321,7 @@ section, aside, footer {
 }
 .center-block ul {
     padding-left:40px;
+}
+.center-block small {
+    color: darkgray;
 }
