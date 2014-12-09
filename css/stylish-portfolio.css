@@ -304,3 +304,10 @@ section, aside, footer {
    right: 20px;
    color: lightgrey;
 }
+
+.center-block {
+    text-align: left;
+    width: 318px;
+    margin: auto;
+    padding-left: 40px;
+}
